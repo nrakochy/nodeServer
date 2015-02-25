@@ -1,1 +1,1 @@
-## Each class represents a simple server with funcionality described by its name.
+## Each class represents a simple server with functionality described by its name.
