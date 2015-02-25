@@ -1,1 +1,1 @@
-### Details for the Node server tutorial with problem set: (https://github.com/rvagg/learnyounode)
+## Each class represents a simple server with funcionality described by its name.
